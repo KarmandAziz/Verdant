@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Verdant.App/Verdant.App.csproj" />
+    <Project Path="src/Verdant.Core/Verdant.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Verdant.Tests/Verdant.Tests.csproj" />
+  </Folder>
+</Solution>

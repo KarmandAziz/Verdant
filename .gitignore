@@ -1,0 +1,46 @@
+# Build products and local tooling
+**/bin/
+**/obj/
+release*/
+distribution/
+package/
+artifacts/
+.vs/
+.idea/
+*.user
+*.suo
+*.zip
+*.exe
+*.dll
+*.pdb
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.snk
+.npmrc
+.pypirc
+.netrc
+configuration*.json
+hardware-lease-*
+*.bak
+*.tmp
+
+# Private runtime and verification data
+work/
+logs/
+screenshots/
+review-data/
+*-evidence/
+*.log
+*.stop
+*.crash-ready
+docs/*-capture*
+docs/*-diagnostics*
+docs/detected-mice*
+docs/basilisk-readonly*
+premium-audit.json
